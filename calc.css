@@ -1,0 +1,32 @@
+#main{
+    width: 20%;
+    background-color: black;
+}
+
+
+.row {
+    display: flex;
+}
+
+#display{
+    border-bottom: 1px solid white;
+    width: 100%;
+    color: white;
+}
+
+
+.row div {
+    flex: 1;
+    background-color: black;
+    font-size: 60px;
+    color: orangered;
+    border: 1px solid white;
+
+}
+.n{
+    color: white;
+}
+
+.button {
+    text-align: center;
+}
